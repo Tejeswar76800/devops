@@ -12,7 +12,6 @@ ef fib(number_of_terms):
       second = temp
       counter = counter + 1
 
-# Driver Code
 fib(10)
 
 
